@@ -117,9 +117,7 @@ python src/stats_models.py
 python src/dl_models.py
 ```
 
-## 👥 Contributors
-
-* **Yuvraj Kathad** (202203013) *
+* **Yuvraj Kathad**
 ---
 
 *Happy forecasting!*
