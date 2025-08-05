@@ -35,27 +35,6 @@ Forecast performance is evaluated using MAE, RMSE, and MAPE. Our findings demons
 └── README.md                # Project overview (this file)
 ```
 
-## ⚙️ Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/forecasting-co2.git
-   cd forecasting-co2
-   ```
-2. **Create a virtual environment**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   venv\\Scripts\\activate  # Windows
-   ```
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## 🗄️ Dataset
 
 * Source: NOAA’s Global Monitoring Laboratory ‒ Mauna Loa CO₂ monthly dataset.
@@ -116,6 +95,8 @@ python src/data_utils.py
 python src/stats_models.py
 python src/dl_models.py
 ```
+
+**Colab File : https://colab.research.google.com/drive/1dEqED5SBC5rhBUFMg0iwh2PaCq9z-8fK?usp=sharing**
 
 * **Yuvraj Kathad**
 ---
