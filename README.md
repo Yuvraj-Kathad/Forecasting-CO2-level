@@ -1,6 +1,6 @@
 # Forecasting CO₂ Levels
 
-**Project:** Forecasting CO₂ Level at Mauna Loa Observatory
+**Project:** Forecasting CO₂ Level
 
 ## 📄 Abstract
 
