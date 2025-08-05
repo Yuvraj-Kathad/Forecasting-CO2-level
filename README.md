@@ -1,6 +1,5 @@
 # Forecasting CO₂ Levels
 
-**Course:** IT402 Applied Forecasting Methods
 **Project:** Forecasting CO₂ Level at Mauna Loa Observatory
 
 ## 📄 Abstract
