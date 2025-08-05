@@ -96,9 +96,6 @@ python src/stats_models.py
 python src/dl_models.py
 ```
 
-**Colab File : https://colab.research.google.com/drive/1dEqED5SBC5rhBUFMg0iwh2PaCq9z-8fK?usp=sharing**
+**Google Colab File : https://colab.research.google.com/drive/1dEqED5SBC5rhBUFMg0iwh2PaCq9z-8fK?usp=sharing**
 
 * **Yuvraj Kathad**
----
-
-*Happy forecasting!*
